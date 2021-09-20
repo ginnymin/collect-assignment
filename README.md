@@ -9,8 +9,6 @@ Write a simple web app that handles the following user scenarios:
 
 ## Implementation
 
----
-
 Generally, each component file contains its related types, FC definitions, and styles.
 
 - **Layout components** (`layouts` folder) - Reusable UI layouts
@@ -29,23 +27,17 @@ Features/folders/files not included in this project but would be in a normal lar
 
 ## Typescript
 
----
-
 I've started using Typescript only recently so my understanding and use of it is limited.  
 Despite this, I used it here because I believe it to be very useful for code maintability and consistency.  
 I would definitely choose to use it in any new project I am a part of.  
 
 ## Testing
 
----
-
 I've included only a few tests here, but I'm aware that this is only a tiny portion of what would normally be covered in a production-level application.
 
 Front end automated and unit testing is another area where I have limited experience due to the nature of the positions I've been in, but it is something that I believe to be extremely important. I look forward to and would love to gain professional experience writing meaningful front-end tests.
 
 ## Other Notes
-
----
 
 Things not included, things I would do differently, etc:
 
@@ -58,10 +50,7 @@ UI/UX notes:
 
 I took some liberties with the UI flow of booking a room, i.e. including a confirm step with Yes/No buttons. Same can be said for handling loading and error states. Generally I wouldn't call myself a UI/UX expert so I'm sure these parts could be greatly improved, particularly with the transitions.
 
-
 ## Available Scripts
-
----
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 
